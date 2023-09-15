@@ -96,9 +96,9 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
 <p align="left">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sakshi00555&show_icons=true&theme=default" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sakshi00555&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi00555&theme=default" align="center" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishk2126&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishk2126&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishk2126&theme=default" align="center" />
 </p>
 
 
@@ -120,14 +120,14 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
 
 ❤ Views and Followers
 <br>
-<a href="https://github.com/sakshi00555/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=sakshi00555">
+<a href="https://github.com/ashishk2126/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ashishk2126">
 </a>
-<a href="https://github.com/sakshi00555?tab=followers"><img src="https://img.shields.io/github/followers/sakshi00555?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ashishk2126?tab=followers"><img src="https://img.shields.io/github/followers/ashishk2126?label=Followers&style=social" alt="GitHub Badge"></a>
 
 #### &nbsp;&nbsp; Thank you for visiting my profile.
 
-⭐️ From [Sakshi kumari](https://github.com/sakshi00555)
+⭐️ From [Kumar Ashish](https://github.com/ashishk2126)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
