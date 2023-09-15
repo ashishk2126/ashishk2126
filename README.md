@@ -35,7 +35,7 @@
 
 ⚡ Fun fact: Passion for coding, Listen To Music
 
-RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-ashish&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://github.com/Sakshi00555/sakshi00555/files/9819529/Sakshi.kumari.resume.pdf)
+RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-ashish&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://github.com/ashishk2126/Resume)
 
 </blockquote>
     
