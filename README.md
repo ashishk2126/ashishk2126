@@ -11,7 +11,7 @@
 
  <br/>
  
- <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&center=false&lines=hey!+its+Sakshi+kumari;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=red&size=30&center=false&lines=hey!+welcome+to+my+profile;Java+developer...;Tech+Enthusiast...;Android+Development...;Full+Stack+Java+Developer..."/>
  
  
 <details>
@@ -64,11 +64,11 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
 | **Category** | **Technologies** |
 | - | - |
 **Frontend** | [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=F37878&logo=html5&logoColor=FFFFFF)](https://html.com/) [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=0078D4&logo=css3&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
-**Backend** | [![mySql](https://img.shields.io/static/v1?label=&message=MySql&color=019733&logo=MySQL&logoColor=FFFFFF)](https://html.com/) [![Maven](https://img.shields.io/static/v1?label=&message=Maven&color=0078D4&logo=mvn&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Hibernate](https://img.shields.io/static/v1?label=&message=Hibernate&color=430098&logo=hibernate&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Spring Boot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=019733&logo=springboot&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
-**Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) <br>[![Python](https://img.shields.io/static/v1?label=&message=Python&color=007396&logo=python&logoColor=FFFFFF)](https://www.python.com/) 
-**Cloud** | [![AWS](https://img.shields.io/static/v1?label=&message=aws&color=0078D4&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) [![Vercel](https://img.shields.io/static/v1?label=&message=Vercel&color=430098&logo=vercel&logoColor=FFFFFF)](https://vercel.com/) [![Netlify](https://img.shields.io/static/v1?label=&message=Netlify&color=00C7B7&logo=netlify&logoColor=FFFFFF)](https://netlify.com/)
+**Backend** | [![mySql](https://img.shields.io/static/v1?label=&message=MySql&color=019733&logo=MySQL&logoColor=FFFFFF)](https://html.com/)  [![Hibernate](https://img.shields.io/static/v1?label=&message=Hibernate&color=430098&logo=hibernate&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css) [![Spring Boot](https://img.shields.io/static/v1?label=&message=SpringBoot&color=019733&logo=springboot&logoColor=FFFFFF)](https://www.w3.org/TR/CSS/#css)
+**Core** | [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)](https://www.javascript.com/)<br>[![Java](https://img.shields.io/static/v1?label=&message=Java&color=007396&logo=java&logoColor=FFFFFF)](https://www.java.com/) <br>[![Java](https://img.shields.io/static/v1?label=&message=SpringFramework&color=019733&logo=spring&logoColor=FFFFFF)](https://www.spring.io/)<br>[![Python](https://img.shields.io/static/v1?label=&message=Python&color=007396&logo=python&logoColor=FFFFFF)](https://www.python.com/) 
+**Cloud** | [![AWS](https://img.shields.io/static/v1?label=&message=aws&color=0078D4&logo=amazonaws&logoColor=FFFFFF)](https://aws.amazon.com/) 
 **Misc** | [![Bash](https://img.shields.io/static/v1?label=&message=Bash&color=4EAA25&logo=gnubash&logoColor=FFFFFF)](https://www.gnu.org/software/bash/) [![Powershell](https://img.shields.io/static/v1?label=&message=Powershell&color=000000&logo=microsoftpowershell&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/Markdown)
-**Editors** | [![STS](https://img.shields.io/static/v1?label=&message=Spring-Boot-Suite4&color=019733&logo=spring&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/)
+**Editors** | [![STS](https://img.shields.io/static/v1?label=&message=Spring-Boot-Suite4&color=019733&logo=spring&logoColor=FFFFFF)](https://www.vim.org/) [![VS Code](https://img.shields.io/static/v1?label=&message=VS%20Code&color=9013FE&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/) [![ECLIPSE](https://img.shields.io/static/v1?label=&message=Eclipse%20IDE&color=2C2255&logo=eclipseide&logoColor=FFFFFF)](https://eclipse.org/)
       
 
 ----      
@@ -77,7 +77,7 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
   </details>
 <details>
 <summary><b>📊 Metrics</b></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishk2126&layout=compact&theme=radical" alt="sakshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishk2126&layout=compact&theme=radical" alt="ashish" /></p>
 
 ![Sakshi GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishk2126&theme=radical&show_icons=true)
 
