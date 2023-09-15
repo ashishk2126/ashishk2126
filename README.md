@@ -5,7 +5,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sakshi00555/count.svg" />
+  <img src="https://profile-counter.glitch.me/ashishk2126/count.svg" />
 </p>
 
 
@@ -17,7 +17,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://user-images.githubusercontent.com/83025741/194702350-dee58138-d73b-4b7b-8366-af40e6df0c65.jpeg" alt="Sakshi kumari" />
+      <img align="right" width="250" src="https://user-images.githubusercontent.com/83025741/194702350-dee58138-d73b-4b7b-8366-af40e6df0c65.jpeg" alt="Kumar Ashish" />
     
 <blockquote>
 
@@ -35,7 +35,7 @@
 
 ⚡ Fun fact: Passion for coding, Listen To Music
 
-RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&message=sakshi-kumari&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://github.com/Sakshi00555/sakshi00555/files/9819529/Sakshi.kumari.resume.pdf)
+RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-ashish&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://github.com/Sakshi00555/sakshi00555/files/9819529/Sakshi.kumari.resume.pdf)
 
 </blockquote>
     
@@ -50,9 +50,9 @@ RESUME :- [![Sakshi kumari resume.pdf](https://img.shields.io/static/v1?label=&m
  
  | **Platforms** | **Go Live** |
  | - | - |
- **Portfolio Website** | [![Portfolio](https://img.shields.io/static/v1?label=&message=sakshikumari.github.web&color=0A9CEA&logo=googlechrome&logoColor=FFFFFF)](https://sakshi00555.github.io/SakshiKumari/)
- **LinkedIn** | [![LinkedIn](https://img.shields.io/static/v1?label=&message=sakshi-kumari&color=16C8FC&logo=linkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/sakshi-kumari-202282214/)
- **Instagram** | [![Instagram](https://img.shields.io/static/v1?label=&message=__sakshi_k__&color=F44CCE&logo=instagram&logoColor=FFFFFF)](https://www.instagram.com/__sakshi_k__/)
+ **Portfolio Website** | [![Portfolio](https://img.shields.io/static/v1?label=&message=kumarashish.github.web&color=0A9CEA&logo=googlechrome&logoColor=FFFFFF)]((https://github.com/ashishk2126))
+ **LinkedIn** | [![LinkedIn](https://img.shields.io/static/v1?label=&message=kumar-ashish&color=16C8FC&logo=linkedIn&logoColor=FFFFFF)](https://www.linkedin.com/in/kumar-ashish-31166a15a/)
+ 
   
  </p>
 </details>
