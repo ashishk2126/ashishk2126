@@ -77,11 +77,11 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
   </details>
 <details>
 <summary><b>📊 Metrics</b></summary>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakshi00555&layout=compact&theme=radical" alt="sakshi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishk2126&layout=compact&theme=radical" alt="sakshi" /></p>
 
-![Sakshi GitHub stats](https://github-readme-stats.vercel.app/api?username=sakshi00555&theme=radical&show_icons=true)
+![Sakshi GitHub stats](https://github-readme-stats.vercel.app/api?username=ashishk2126&theme=radical&show_icons=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sakshi00555&theme=radical&hide_border=false&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashishk2126&theme=radical&hide_border=false&border_radius=4&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
   </details>
   
