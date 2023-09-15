@@ -17,23 +17,23 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="https://user-images.githubusercontent.com/83025741/194702350-dee58138-d73b-4b7b-8366-af40e6df0c65.jpeg" alt="Kumar Ashish" />
+      <!--<img align="right" width="250" src="" alt="Kumar Ashish" />-->
     
 <blockquote>
 
-🙂 &nbsp; Exploring new technologies and learning data structures and algorithms.
+🙂 &nbsp; Exploring new technologies.
   
-🎓 &nbsp; Learning Web Development at masai school
+🎓 &nbsp; Completed MCA from Chandigarh University
   
-💼 &nbsp; Aspire to work as a JAVA Backend developer.
+💼 &nbsp; Aspiring JAVA developer with 1 year experience as an Intern at Indian Oil Corporation Ltd.
 
-👯‍♂️ &nbsp;&nbsp;Looking for Contributing to Java projects with lots of learning and experience.Happy to Contribute in Opne source Projects<br>
+👯‍♂️ &nbsp;&nbsp;Looking to Contribute to Java projects with lots of learning and experience.Happy to Contribute in Open source Projects<br>
   
-💬 &nbsp;&nbsp;Ask me about anything related to Java Backend and data structure & algorithms.
+💬 &nbsp;&nbsp;Ask me about anything related to Java and data structure & algorithms.
   
-  I will be happy to tell,if I am unable then surely we will together towards learning new things.
+  I will be happy to help,and if unable then surely will work together towards learning new things.
 
-⚡ Fun fact: Passion for coding, Listen To Music
+⚡ Fun fact: Passion for coding, Listening Music and Watching Spors
 
 RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-ashish&color=16C8FC&logo=globe&logoColor=FFFFFF)](https://github.com/ashishk2126/Resume)
 
@@ -102,20 +102,12 @@ RESUME :- [![Resume.pdf](https://img.shields.io/static/v1?label=&message=kumar-a
 </p>
 
 
-<p align="left">Pinned Projects</p>
-
-|  | |
-|:-:|:-:|
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Kimaye-website-clone&theme=radical)](https://github.com/Sakshi00555/Kimaye-website-clone)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rkarthik25&repo=Beewakoof-clone&theme=radical)](https://github.com/Rkarthik25/Beewakoof-clone)
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=My-Net-Diary-Website-Clone&theme=radical)](https://github.com/Sakshi00555/My-Net-Diary-Website-Clone)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Image-Library&theme=radical)](https://github.com/Sakshi00555/Image-Library)
-|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Today-s-Weather&theme=radical)](https://github.com/Sakshi00555/Today-s-Weather)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sakshi00555&repo=Foodies-App&theme=radical)](https://github.com/Sakshi00555/Foodies-App)|
 
 
 
 
 
 
-[![coffee](https://user-images.githubusercontent.com/81063456/160665169-7d4ae351-ed39-4216-a071-d95232e8d88a.svg)](https://www.buymeacoffee.com/sakshikumari)
 
 
 ❤ Views and Followers
